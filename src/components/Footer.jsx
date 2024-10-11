@@ -112,13 +112,13 @@ const Footer = () => {
             <p className="text-gray-400 mb-2">
               Address: Haledon, New Jersey, USA 07508
             </p>
-            <p className="text-gray-400 mb-2">Email: sadullahkacar@hotmail.com</p>
-            <p className="text-gray-400">Phone: +201 639 1590</p>
+            <p className="text-gray-400 mb-2">Email: sadullah@hotmail.com</p>
+            <p className="text-gray-400">Phone: +1 639 1590</p>
           </div>
         </div>
         <hr className="my-8 border-gray-800" />
         <p className="text-center text-gray-400">
-          &copy; {new Date().getFullYear()} Sadullah Kacar App. All rights reserved.
+          &copy; {new Date().getFullYear()} Sadullah App. All rights reserved.
         </p>
       </div>
     </footer>
